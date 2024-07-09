@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.vscode/
+build/
+bin/
+models/
+test_images/
